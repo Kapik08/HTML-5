@@ -3,4 +3,4 @@
 <h3>header 3</h3>
 <h4>header 4</h4>
 <h5>header 5</h5>
-<h6>The smallest header</h6>
+<h6>The smallest header 6</h6>
